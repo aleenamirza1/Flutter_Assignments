@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763452816451",
+    "project_id": "kfcc-1d3e8",
+    "storage_bucket": "kfcc-1d3e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763452816451:android:32c3049451b9089fcb28f6",
+        "android_client_info": {
+          "package_name": "com.example.kfc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClcYHiLAOVAR4gyhE558VMULIEDR5SydM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763452816451:android:191cb31168ffc2f2cb28f6",
+        "android_client_info": {
+          "package_name": "com.example.pushnotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClcYHiLAOVAR4gyhE558VMULIEDR5SydM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
